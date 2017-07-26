@@ -1,0 +1,4 @@
+﻿Name	Start	Duration	Time Format	Type	Description
+Start	0:00.000	0:00.000	decimal	Cue	
+Pullback	0:45.001	0:00.000	decimal	Cue	
+Drop	0:51.020	0:00.000	decimal	Cue	
